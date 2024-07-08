@@ -1,0 +1,10 @@
+[package]
+name = "FOSScope_LLMArticleSelectTool_CLI"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+libhtmlfilter = "0.1.2"
+openai_api_rust = "0.1.9"
+toml = "0.8.14"
+dotenv = "0.15.0"
