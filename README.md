@@ -1,11 +1,11 @@
-# FOSScope_LLMArticleSelectTool_CLI
+# LLMArticleSelectTool_CLI
 
 本项目用于从网页中提取和过滤 HTML 内容，并通过 OpenAI-API 调用DeepSeek-V2-Chat模型生成相应的 Markdown 文本输出。
 输出文件保存在工作目录下的 output 目录中。
 
 ## 目录
 
-- [FOSScope_LLMArticleSelectTool_CLI](#FOSScope_LLMArticleSelectTool_CLI)
+- [LLMArticleSelectTool_CLI](#LLMArticleSelectTool_CLI)
   - [目录](#目录)
   - [特性](#特性)
   - [先决条件](#先决条件)
@@ -34,8 +34,8 @@
 克隆此项目到本地：
 
 ```bash
-git clone https://github.com/FOSScope/FOSScope_LLMArticleSelectTool_CLI.git
-cd FOSScope_LLMArticleSelectTool_CLI
+git clone https://github.com/FOSScope/LLMArticleSelectTool_CLI.git
+cd LLMArticleSelectTool_CLI
 ```
 
 使用 `cargo` 构建项目：
